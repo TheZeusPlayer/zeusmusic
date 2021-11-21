@@ -23,9 +23,9 @@ const mineflayer = require("mineflayer");
 
 //the config
 const bot = mineflayer.createBot({
-  host: "ip.aternos", //Coloca entre las comillas, tu ip
+  host: "Simplegame.aternos.me", //Coloca entre las comillas, tu ip
   port: 25565, //puerto del servidor
-  username: "B123", //nombre del bot (CAMBIAR)
+  username: "Nohan", //nombre del bot (CAMBIAR)
   version: false //version of the server (false = auto detect)
 });
 
